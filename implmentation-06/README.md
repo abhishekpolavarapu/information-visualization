@@ -1,1 +1,2 @@
-
+Using matrix view we can find out the states which are adjacent to each other when we select ordering by name.
+When ordering by frequency is choosen the state which has maximum number of connections is displayed first ie. tennessee has more number of adjacent states whereas Maine has only one adjacent state(New Hampshire).
